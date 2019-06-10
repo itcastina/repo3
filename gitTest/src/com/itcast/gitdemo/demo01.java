@@ -15,4 +15,8 @@ public class demo01 {
         private void print2(){
             System.out.println(456);
         }
+
+     private void print3(){
+            System.out.println(1000000);
+        }
 }
