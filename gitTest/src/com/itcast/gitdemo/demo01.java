@@ -16,7 +16,23 @@ public class demo01 {
             System.out.println(456);
         }
 
+
      private void print3(){
             System.out.println(1000000);
+
+
+        private void print2(){
+            System.out.println(456);
+        }
+
+
+        private void print2(){
+            System.out.println(789);
+        }
+
+
+        private void print2(){
+            System.out.println(10);
+
         }
 }
