@@ -8,4 +8,11 @@ public class demo01 {
 
     public void print(){
         System.out.println(123);}
+
+
+
+
+        private void print2(){
+            System.out.println(456);
+        }
 }
